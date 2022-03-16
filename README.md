@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chahrazed Ben Azaiez
 - 👀 I’m interested in developping apps as well as websites.
-- 🌱 I’m currently learning springboot/Angular
+- 🌱 I’m currently learning springboot/VueJs
 - 📫 How to reach me: chahrazed.benazaiez@etudiant-isi.utm.tn
 
 <!---
