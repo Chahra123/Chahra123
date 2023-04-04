@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chahrazed Ben Azaiez
 - 👀 I’m interested in developping apps as well as websites.
 - 🌱 I’m currently learning springboot/VueJs
-- 📫 How to reach me: chahrazed.benazaiez@etudiant-isi.utm.tn
+- 📫 How to reach me: benazaiez.chahrazed@esprit.com
 
 <!---
 Chahra123/Chahra123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
