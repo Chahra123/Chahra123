@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chahrazed Ben Azaiez
-- 👀 I’m interested in developping apps as well as websites.
-- 🌱 I’m currently learning springboot/VueJs
+- 👀 I’m interested in developping apps as well as websites using recent frameworks as springboot/vuejs/react ...
+- 🌱 I’m currently working as a java developer and also pursuing my studies as an engineer
 - 📫 How to reach me: benazaiez.chahrazed@esprit.com
 
 <!---
